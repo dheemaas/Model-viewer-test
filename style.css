@@ -11,7 +11,7 @@ body {
 }
 
 model-viewer {
-    height: 100vh;
+    height: 90vh;
     width: 100vw;
 }
 
@@ -20,7 +20,7 @@ h1 {
     font-size: 1rem;
     position: absolute;
     right: 1.5rem;
-    bottom: 3rem;
+    bottom: 1.5rem;
 }
 
 a {
